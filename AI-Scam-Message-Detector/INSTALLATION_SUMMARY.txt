@@ -262,7 +262,3 @@ Then open: **http://localhost:3000**
 Start the application now and begin detecting scams! 🛡️
 
 ---
-
-*Last Updated: January 11, 2026*  
-*Installation Time: ~15 minutes*  
-*Ready Since: 2026-01-11 12:45 UTC*
