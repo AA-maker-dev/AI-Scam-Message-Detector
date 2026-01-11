@@ -35,3 +35,8 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
 
 # Start application
 CMD ["serve", "-s", "build", "-l", "3000"]
+
+# Add a script to start the application with PM2
+COPY ./START.bat .
+
+RUN chmod +x ./START.bat
