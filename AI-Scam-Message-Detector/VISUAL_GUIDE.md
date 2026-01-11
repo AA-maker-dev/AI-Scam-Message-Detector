@@ -5,7 +5,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│        🛡️  AI SCAM MESSAGE DETECTOR - Award Winning  🏆         │
+│        🛡️  AI SCAM MESSAGE DETECTOR                            │
 │                                                                 │
 │      Advanced AI-powered system for detecting scam messages     │
 │           with 95%+ accuracy and production-ready code         │
