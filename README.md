@@ -1,39 +1,99 @@
-Welcome to the AI Scam Message Detector!
-Hey there! 👋 Welcome to your personal AI-powered scam message detector – your intelligent guardian against fraud and phishing attempts.
 
-What Can I Do?
-I'm here to help you instantly identify suspicious messages with incredible accuracy. Just paste any message, and I'll analyze it in real-time to tell you:
+# 🛡️ AI Scam Message Detector
 
-✅ Is it a scam? (Yes/No with confidence score)
-✅ What type of scam? (Phishing, lottery, financial fraud, etc.)
-✅ How risky is it? (Critical, High, Medium, Low)
-✅ Why is it suspicious? (Detailed explanation)
+Welcome to the **AI Scam Message Detector** – your personal AI-powered guardian against fraud and phishing attempts! Protect yourself and your community by instantly identifying suspicious messages.  
 
-How It Works
-📱 Single Message? Paste it in the "Detect" tab → Get instant results
-📂 Multiple Messages? Use "Batch Analysis" → Process up to 1,000 at once
-📊 Want Stats? Check the "Analytics" tab → See platform-wide insights
+---
 
-Key Features
-🔒 95%+ Accuracy - Advanced AI ensemble model
-⚡ Lightning Fast - Results in <100ms
-🎯 10+ Scam Types - Catches phishing, fraud, impersonation & more
-💡 Smart Explanations - Not just a yes/no, but why it's suspicious
-🔄 Batch Processing - Analyze up to 1,000 messages at once
+## 🚀 Features
 
-Quick Example
-Try this message:
+- **Instant Scam Detection** – Analyze any message in real-time.  
+- **High Accuracy** – 95%+ confidence with advanced AI models.  
+- **Multiple Scam Types** – Phishing, lottery, financial fraud, impersonation & more.  
+- **Risk Assessment** – Critical, High, Medium, or Low risk scores.  
+- **Smart Explanations** – Understand why a message is suspicious.  
+- **Batch Analysis** – Process up to 1,000 messages at once.  
+- **Analytics Dashboard** – Platform-wide insights on scam trends.  
 
-"URGENT: Your account is compromised! Click here immediately to verify your password or lose access forever!"
+---
 
-Our AI says: 🚨 CRITICAL SCAM (98.7% confidence)
+## 🛠️ How It Works
 
-Type: Phishing Attack
-Why: Urgency language, verification demand, threat, suspicious link
-Let's Get Started!
-Choose what you'd like to do:
+1. **Single Message Detection**  
+   - Paste your message in the **"Detect" tab** → Get instant results.  
 
-🔍 Detect a message - Paste something to analyze
-📋 Batch analyze - Upload multiple messages
-📈 View analytics - See detection insights
-❓ Learn more - Explore the documentation
+2. **Batch Analysis**  
+   - Upload multiple messages → Analyze up to 1,000 messages at once.  
+
+3. **Analytics**  
+   - View trends and insights from your messages in the **Analytics tab**.  
+
+---
+
+## ⚡ Example
+
+Message:  
+
+```
+
+URGENT: Your account is compromised! Click here immediately to verify your password or lose access forever!
+
+````
+
+**AI Result:** 🚨 **CRITICAL SCAM (98.7% confidence)**  
+
+- **Type:** Phishing Attack  
+- **Why:** Urgency language, verification demand, threat, suspicious link  
+
+---
+
+## 📝 Quick Start
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/your-username/ai-scam-detector.git
+````
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the app:
+
+```bash
+python app.py
+```
+
+4. Open your browser at `http://localhost:5000` and start detecting scams!
+
+---
+
+## 📈 Tabs & Features
+
+| Tab              | Functionality                               |
+| ---------------- | ------------------------------------------- |
+| 🔍 Detect        | Analyze a single message instantly          |
+| 📋 Batch Analyze | Upload multiple messages for bulk detection |
+| 📊 Analytics     | View detection statistics and trends        |
+| ❓ Learn More     | Explore documentation and usage tips        |
+
+---
+
+## 💡 Why Use This Tool?
+
+* Prevent phishing attacks before they harm you
+* Identify lottery and financial fraud attempts
+* Detect impersonation scams in messages
+* Learn why messages are risky with detailed AI explanations
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is **AI-powered** and provides **risk assessments**, but **always verify suspicious messages independently**. It’s a helper, not a replacement for security vigilance.
+
+---
+
+⭐ **Start detecting scams today and protect yourself from fraud!**
