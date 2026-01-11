@@ -28,7 +28,7 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     
     # Model settings
-    MODEL_PATH = os.getenv('MODEL_PATH', './models/scam_detector_model.pkl')
+    MODEL_PATH = os.getenv('MODEL_PATH', '../ml_model/models/scam_detector_model.pkl')
     MIN_CONFIDENCE_THRESHOLD = 0.5
     BATCH_SIZE = 100
     
