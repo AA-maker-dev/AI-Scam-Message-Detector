@@ -5,7 +5,7 @@ Welcome to the **AI Scam Message Detector** – your personal AI-powered guardia
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Instant Scam Detection** – Analyze any message in real-time.  
 - **High Accuracy** – 95%+ confidence with advanced AI models.  
@@ -17,7 +17,7 @@ Welcome to the **AI Scam Message Detector** – your personal AI-powered guardia
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 1. **Single Message Detection**  
    - Paste your message in the **"Detect" tab** → Get instant results.  
@@ -30,7 +30,7 @@ Welcome to the **AI Scam Message Detector** – your personal AI-powered guardia
 
 ---
 
-## ⚡ Example
+##  Example
 
 Message:  
 
@@ -40,14 +40,14 @@ URGENT: Your account is compromised! Click here immediately to verify your passw
 
 ````
 
-**AI Result:** 🚨 **CRITICAL SCAM (98.7% confidence)**  
+**AI Result:** **CRITICAL SCAM (98.7% confidence)**  
 
 - **Type:** Phishing Attack  
 - **Why:** Urgency language, verification demand, threat, suspicious link  
 
 ---
 
-## 📝 Quick Start
+## Quick Start
 
 1. Clone the repository:  
 ```bash
@@ -70,18 +70,18 @@ python app.py
 
 ---
 
-## 📈 Tabs & Features
+## Tabs & Features
 
 | Tab              | Functionality                               |
 | ---------------- | ------------------------------------------- |
-| 🔍 Detect        | Analyze a single message instantly          |
-| 📋 Batch Analyze | Upload multiple messages for bulk detection |
-| 📊 Analytics     | View detection statistics and trends        |
-| ❓ Learn More     | Explore documentation and usage tips        |
+| Detect        | Analyze a single message instantly          |
+| Batch Analyze | Upload multiple messages for bulk detection |
+| Analytics     | View detection statistics and trends        |
+| Learn More     | Explore documentation and usage tips        |
 
 ---
 
-## 💡 Why Use This Tool?
+##  Why Use This Tool?
 
 * Prevent phishing attacks before they harm you
 * Identify lottery and financial fraud attempts
@@ -90,10 +90,10 @@ python app.py
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This tool is **AI-powered** and provides **risk assessments**, but **always verify suspicious messages independently**. It’s a helper, not a replacement for security vigilance.
 
 ---
 
-⭐ **Start detecting scams today and protect yourself from fraud!**
+**Start detecting scams today and protect yourself from fraud!**
